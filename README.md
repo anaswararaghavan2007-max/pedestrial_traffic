@@ -75,7 +75,7 @@ python app.py
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](img\img1.png)
+![Screenshot1](/img/img1.png)
 *Initial upload screen for the Pedestrian System Analyzer*
 
 ![Screenshot2](img\img2.png)
