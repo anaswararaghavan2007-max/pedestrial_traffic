@@ -78,10 +78,10 @@ python app.py
 ![Screenshot1](/img/img1.png)
 *Initial upload screen for the Pedestrian System Analyzer*
 
-![Screenshot2](img\img2.png)
+![Screenshot2](/img/img2.png)
 *Result showing "Prioritize Pedestrians" alert for high density counts*
 
-![Screenshot3](img\img3.png)
+![Screenshot3](/img/img3.png)
 *Result showing "Prioritize Vehicles" alert for low density counts*
 
 #### Diagrams
