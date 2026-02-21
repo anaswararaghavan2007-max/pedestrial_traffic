@@ -7,7 +7,7 @@
 
 ### Team Members
 
-* Member 1: Asaswara - College of Engineering Trikaripur
+* Member 1: Anaswara - College of Engineering Trikaripur
 * Member 2: Devika - College of Engineering Trikaripur
 
 
@@ -141,5 +141,6 @@ python app.py
 * **Devika**: Frontend HTML/Bootstrap design and documentation.
 
 ---
+
 
 Made with ❤️ at TinkerHub
